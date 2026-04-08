@@ -1,0 +1,24 @@
+{
+    "device": {
+        "device_id": "emulator-5554",
+        "window_name": "雷电模拟器",
+        "use_window_capture": false,
+        "screen_resolution": [720, 1280]
+    },
+    "battle": {
+        "max_battles": 10,
+        "battle_mode": "1v1",
+        "auto_restart": true,
+        "strategy": "aggressive",
+        "deck_index": 0
+    },
+    "screen": {
+        "capture_interval": 0.1,
+        "save_screenshots": false,
+        "screenshot_dir": "./screenshots"
+    },
+    "log": {
+        "level": "INFO",
+        "file": "./logs/cr_auto.log"
+    }
+}
